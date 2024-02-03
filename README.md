@@ -16,7 +16,7 @@ Welcome to our Android Chatbot and Image Generator App! This app harnesses the p
 
 ```http
   https://api.openai.com/v1/chat/completions
-  https://api.openai.com//v1/images/generations
+  https://api.openai.com/v1/images/generations
 ```
 
 | Parameter | Type     | Description                |
